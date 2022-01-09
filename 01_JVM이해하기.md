@@ -1,9 +1,12 @@
+
 # 1.자바, JVM, JDK, JRE
 
 자바가 뭔지, JVM/JDK/JRE가 각각 뭔지 이해해보자. 
 
-<img src="https://user-images.githubusercontent.com/52793122/148692157-cb9e5576-6d9c-4241-8595-c0e27ed85084.png"  width="600" height="300"/>
+<img src="https://user-images.githubusercontent.com/52793122/148692157-cb9e5576-6d9c-4241-8595-c0e27ed85084.png"  width="700" height="350"/>
 
+<br/>
+<br/>
 
 ## JVM(Java Virtual Machine)
 
@@ -68,6 +71,8 @@
 - 특정 플랫폼에 종속적이다.
     - 자바 코드를 네이티브 코드로 바꿔서 실행해야 하는데 이 네이티브 코드가 OS에 맞춰서 실행되어야 하기 때문에
 
+<br/>
+
 # JRE(Java Runtime Environment)
 
 - JVM + 라이브러리
@@ -77,11 +82,15 @@
 - 개발 관련 도구는 포함하지 않는다.
     - javac 등은 JDK에서 제공
 
+<br/>
+
 # JDK(Java Development Kit)
 
 - JRE + 개발에 필요한 툴
 - 소스 코드를 작성할 때 자바 언어는 플랫폼에 독립적
 - 오라클은 자바 11부터는 JDK만 제공하며 JRE를 따로 제공하지 않는다.
+
+<br/>
 
 # 자바
 
@@ -89,6 +98,8 @@
 - JDK에 들어있는 자바 컴파일러(javac)를 사용하여 바이트 코드(.class)로 컴파일 할 수 있다.
 - 오라클에서 만든 Oracle JDK 11 버전부터 상용으로 사용할 때는 자바 유료화이다.
     - 그 외 다른 벤더에서 만들었거나 버전이 다르다면 모두 아직까지는 무료이다.
+
+<br/>
 
 # JVM 언어
 
