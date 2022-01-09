@@ -3,8 +3,7 @@
 
 자바가 뭔지, JVM/JDK/JRE가 각각 뭔지 이해해보자. 
 
-<img src="https://user-images.githubusercontent.com/52793122/148692157-cb9e5576-6d9c-4241-8595-c0e27ed85084.png"  width="800" height="350"/>
-
+<img src="https://user-images.githubusercontent.com/52793122/148692157-cb9e5576-6d9c-4241-8595-c0e27ed85084.png"  width="900" height="400"/>
 <br/>
 
 ## JVM(Java Virtual Machine)
