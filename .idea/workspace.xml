@@ -4,37 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="891f17f6-2b18-48db-a5da-1c90ff0d8109" name="Default Changelist" comment="">
+    <list default="true" id="88054375-879e-4fec-a5a9-48c19d626192" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/the-java-code-manipulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masulsaagent/masulsaAgent/masulsaAgent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/masulsaagent/masulsaagent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/me.chocho.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/.gradle/6.8/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/.gradle/checksums/checksums.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/.gradle/configuration-cache/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/src/main/java/chapter01/1.JVM 이해하기.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/src/main/java/chapter01/chapter01_1/1-1.자바,JVM,JRE 그리고 JDK.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/src/main/java/chapter01/chapter01_2/1-2.JVM 구조.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/src/main/java/chapter01/chapter01_3/1-3.클래스로더.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/src/main/java/chapter02/2.바이트코드 조작.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/src/main/java/chapter02/chapter02_1/2-1.코드 커버리지는 어떻게 측정할까?.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/src/main/java/chapter02/chapter02_1/Moim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/me.chocho/src/test/java/chapter02/chapter02_1/MoimTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/chocho.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/chocho.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/src/main/java/chapter01/1.JVM 이해하기.md" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter01/1.JVM 이해하기.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_1/Moim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_2/Moja.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/test-classes/chapter02/chapter02_1/MoimTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,58 +46,13 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
-  <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$">
-      <ProjectState />
-    </projectState>
-    <projectState path="$PROJECT_DIR$/me.chocho">
-      <ProjectState />
-    </projectState>
-  </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <task path="$PROJECT_DIR$/me.chocho">
-          <activation />
-        </task>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="me.chocho" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="me.chocho" type="f1a62948:ProjectNode" />
-                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="the-java-manipulating" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="JUnit5 Test Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="256Xh6eD2jNF2vwDeJjRNuR17YC" />
+  <component name="ProjectId" id="25ANzgZ1ouoJcIZoSID3JpUelmm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -104,73 +61,21 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/chocho/src/main/java/chapter02" />
-      <recent name="$PROJECT_DIR$/chocho/src/main/java/chapter02/chapter02_1" />
-      <recent name="$PROJECT_DIR$/chocho/src/main/java/chapter01/chapter01_3" />
-      <recent name="$PROJECT_DIR$/chocho/src/main/java/chapter01/chapter01_2" />
-      <recent name="$PROJECT_DIR$/chocho/src/main/java/chapter01/chapter01_1" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="chapter02.chapter02_1" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter02.chapter02_2.Main" />
+      <option name="MAIN_CLASS_NAME" value="chapter02.chapter02_3.Main" />
       <module name="chocho" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter02.chapter02_2.*" />
+          <option name="PATTERN" value="chapter02.chapter02_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MoimTest.isFull" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/me.chocho" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;chapter02.chapter02_1.MoimTest.isFull&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="MoimTest.isFull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chocho" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter02.chapter02_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chapter02.chapter02_1" />
-      <option name="MAIN_CLASS_NAME" value="chapter02.chapter02_1.MoimTest" />
-      <option name="METHOD_NAME" value="isFull" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -178,19 +83,17 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.MoimTest.isFull" />
-        <item itemvalue="Gradle.MoimTest.isFull" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="891f17f6-2b18-48db-a5da-1c90ff0d8109" name="Default Changelist" comment="" />
-      <created>1644848625451</created>
+      <changelist id="88054375-879e-4fec-a5a9-48c19d626192" name="Default Changelist" comment="" />
+      <created>1644966194493</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1644848625451</updated>
+      <updated>1644966194493</updated>
     </task>
     <servers />
   </component>

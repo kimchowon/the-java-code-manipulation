@@ -7,8 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="chocho" />
+        <module name="masulsaagent" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="14" />
+    <bytecodeTargetLevel>
+      <module name="chocho" target="11" />
+      <module name="masulsaagent" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
