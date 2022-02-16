@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88054375-879e-4fec-a5a9-48c19d626192" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/masulsaagent/src/main/java/me/chocho/chapter02_3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masulsaagent/masulsaagent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/masulsaagent/masulsaagent.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masulsaagent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/masulsaagent/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/masulsaagent/src/main/java/org/example/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/masulsaagent/target/classes/org/example/App.class" beforeDir="false" />
-    </list>
+    <list default="true" id="88054375-879e-4fec-a5a9-48c19d626192" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
