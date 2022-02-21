@@ -80,7 +80,7 @@
       <recent name="chapter03.chapter03_2" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MoimTest.isFull">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
       <module name="di-project" />
@@ -160,9 +160,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.MoimTest.isFull" />
         <item itemvalue="JUnit.ContainerServiceTest.getObject_BookRepository" />
-        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.ContainerServiceTest.getObject_BookService" />
         <item itemvalue="JUnit.ContainerServiceTest.getObject" />
       </list>
