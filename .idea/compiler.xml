@@ -8,12 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="chocho" />
         <module name="masulsaagent" />
-        <module name="di-project" />
+        <module name="di-framework" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chocho" target="11" />
-      <module name="di-project" target="11" />
+      <module name="di-framework" target="11" />
       <module name="masulsaagent" target="11" />
     </bytecodeTargetLevel>
   </component>

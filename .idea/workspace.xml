@@ -62,6 +62,11 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4" />
+      <recent name="$PROJECT_DIR$/chocho/src/test/java/chapter03/chapter03_4" />
+      <recent name="$PROJECT_DIR$/di-project/src/test/java/org/example" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -69,6 +74,7 @@
       <recent name="me.chocho.chapter02_3" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example" />
       <recent name="chapter03.chapter03_4" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -78,7 +84,7 @@
   <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
-      <module name="di-project" />
+      <module name="di-framework" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
