@@ -6,14 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="chocho" />
         <module name="masulsaagent" />
+        <module name="chocho" />
         <module name="di-framework" />
+        <module name="di-project" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chocho" target="11" />
       <module name="di-framework" target="11" />
+      <module name="di-project" target="11" />
       <module name="masulsaagent" target="11" />
     </bytecodeTargetLevel>
   </component>
