@@ -6,8 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="88054375-879e-4fec-a5a9-48c19d626192" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/di-framework/src/main/java/org/example/ContainerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/src/main/java/org/example/ContainerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-framework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/di-framework/src/test/java/org/example/ContainerServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/src/test/java/org/example/ContainerServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-framework/target/classes/org/example/ContainerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/classes/org/example/ContainerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-framework/target/classes/org/example/Inject.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/classes/org/example/Inject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-framework/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-framework/target/test-classes/org/example/BookRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/test-classes/org/example/BookRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-framework/target/test-classes/org/example/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/test-classes/org/example/BookService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-framework/target/test-classes/org/example/ContainerServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/test-classes/org/example/ContainerServiceTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +78,7 @@
       <recent name="chapter03.chapter03_2" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ContainerServiceTest.bookService_getObject">
+  <component name="RunManager" selected="JUnit.ContainerServiceTest.bookRepository_getObject">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
       <module name="di-project" />
@@ -93,6 +101,22 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContainerServiceTest.bookRepository_getObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="di-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.ContainerServiceTest" />
+      <option name="METHOD_NAME" value="bookRepository_getObject" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,29 +153,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainerServiceTest.getObject_BookRepository (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="di-framework" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.ContainerServiceTest" />
-      <option name="METHOD_NAME" value="getObject_BookRepository" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ContainerServiceTest.bookRepository_getObject" />
         <item itemvalue="JUnit.ContainerServiceTest.bookService_getObject" />
         <item itemvalue="JUnit.ContainerServiceTest.getObject" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.ContainerServiceTest.getObject_BookRepository (1)" />
       </list>
     </recent_temporary>
   </component>
