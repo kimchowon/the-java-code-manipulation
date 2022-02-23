@@ -6,10 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="88054375-879e-4fec-a5a9-48c19d626192" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/AccountService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/di-framework/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/di-framework/src/test/java/org/example/ContainerServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/src/test/java/org/example/ContainerServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_3/Moja.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_3/Moja.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter03/chapter03_3/Book03.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/classes/chapter03/chapter03_3/Book03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter03/chapter03_4/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/classes/chapter03/chapter03_4/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter03/chapter03_4/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/classes/chapter03/chapter03_4/App.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/di-framework/target/classes/org/example/ContainerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/classes/org/example/ContainerService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/di-framework/target/classes/org/example/Inject.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/classes/org/example/Inject.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/di-framework/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/classes/org/example/Main.class" afterDir="false" />
@@ -78,13 +80,13 @@
       <recent name="chapter03.chapter03_2" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ContainerServiceTest.bookRepository_getObject">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="di-project" />
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter03.chapter03_4.App" />
+      <module name="chocho" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="chapter03.chapter03_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,9 +94,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="di-framework" />
+      <module name="di-project" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -155,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.ContainerServiceTest.bookRepository_getObject" />
         <item itemvalue="JUnit.ContainerServiceTest.bookService_getObject" />
         <item itemvalue="JUnit.ContainerServiceTest.getObject" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
