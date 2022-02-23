@@ -1,4 +1,4 @@
-package chapter03.chapter03_4;
+package org.example;
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.Arrays;

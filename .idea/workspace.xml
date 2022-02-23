@@ -5,26 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88054375-879e-4fec-a5a9-48c19d626192" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/src/test/java/chapter02/chapter02_1/MoimTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/src/test/java/chapter02/chapter02_1/MoimTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/chocho-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/chocho-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_1/Moim.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_1/Moim.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_2/Moja.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_2/Moja.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_3/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_3/Moja.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_3/Moja.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/surefire-reports/TEST-chapter02.chapter02_1.MoimTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/surefire-reports/TEST-chapter02.chapter02_1.MoimTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/surefire-reports/chapter02.chapter02_1.MoimTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/surefire-reports/chapter02.chapter02_1.MoimTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/test-classes/chapter02/chapter02_1/MoimTest.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/di-project/src/main/java/org/example/ContainerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/di-project/src/main/java/org/example/Inject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/di-project/src/test/java/org/example/ContainerServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/ContainerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/Inject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/src/test/java/chapter03/chapter03_4/BookRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/di-project/src/test/java/org/example/BookRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/src/test/java/chapter03/chapter03_4/BookService.java" beforeDir="false" afterPath="$PROJECT_DIR$/di-project/src/test/java/org/example/BookService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/src/test/java/chapter03/chapter03_4/ContainerServiceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/di-project/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-project/src/main/java/org/example/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/di-project/src/main/java/org/example/AccountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-project/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/di-project/src/main/java/org/example/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +31,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Interface" />
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
       </list>
     </option>
   </component>
@@ -61,6 +55,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />

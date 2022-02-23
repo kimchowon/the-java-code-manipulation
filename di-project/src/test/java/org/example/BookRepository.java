@@ -1,4 +1,4 @@
-package chapter03.chapter03_4;
+package org.example;
 
 public class BookRepository {
 }

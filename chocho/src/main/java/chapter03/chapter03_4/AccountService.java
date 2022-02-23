@@ -1,10 +1,7 @@
-package org.example;
-
-import chapter03.chapter03_4.Inject;
+package chapter03.chapter03_4;
 
 public class AccountService {
 
-    @Inject
     AccountRepository accountRepository;
 
     public void join() {

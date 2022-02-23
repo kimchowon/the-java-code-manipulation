@@ -1,8 +1,8 @@
-package chapter03.chapter03_4;
+package org.example;
 
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertNotNull;
 
 class ContainerServiceTest {
 
