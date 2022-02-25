@@ -5,19 +5,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88054375-879e-4fec-a5a9-48c19d626192" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_6_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_11_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_4_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_21_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_2_RELEASE2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_2_RELEASE2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_3_15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter04/chapter04_1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter04/chapter04_1/BookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter04/chapter04_1/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter04/chapter04_1/BookServiceProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter04/chapter04_2/EBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter04/chapter04_2/EBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter04/chapter04_2/EBookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chocho/src/test/java/chapter04/chapter04_1/BookServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chocho/src/test/java/chapter04/chapter04_2/BookServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_vintage_junit_vintage_engine_5_4_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_2_RELEASE.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/AccountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_3/Moja.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/classes/chapter02/chapter02_3/Moja.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter03/chapter03_3/Book03.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/classes/chapter03/chapter03_3/Book03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter03/chapter03_4/AccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/classes/chapter03/chapter03_4/AccountService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/chocho.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/chocho.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/chocho-1.0-SNAPSHOT.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/chocho/target/classes/chapter03/chapter03_4/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/classes/chapter03/chapter03_4/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/surefire-reports/TEST-chapter02.chapter02_1.MoimTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/surefire-reports/TEST-chapter02.chapter02_1.MoimTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/surefire-reports/TEST-chapter03.chapter03_4.ContainerServiceTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/target/surefire-reports/chapter03.chapter03_4.ContainerServiceTest.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/di-framework/target/classes/org/example/ContainerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/classes/org/example/ContainerService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/di-framework/target/classes/org/example/Inject.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/classes/org/example/Inject.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/di-framework/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/classes/org/example/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/di-framework/target/test-classes/org/example/BookRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/test-classes/org/example/BookRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/di-framework/target/test-classes/org/example/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/test-classes/org/example/BookService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/di-framework/target/test-classes/org/example/ContainerServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/test-classes/org/example/ContainerServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-framework/target/di-project-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/di-project-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-framework/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-framework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/di-framework/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/di-framework/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/masulsaagent/target/classes/me/chocho/chapter02_3/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/masulsaagent/target/classes/me/chocho/chapter02_3/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +92,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -54,14 +115,15 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 2.7" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chocho/src/main/java/chapter04/chapter04_2" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chocho/src/main/java/chapter04/chapter04_2" />
       <recent name="$PROJECT_DIR$/chocho/src/main/java/chapter03/chapter03_4" />
       <recent name="$PROJECT_DIR$/chocho/src/test/java/chapter03/chapter03_4" />
       <recent name="$PROJECT_DIR$/di-project/src/test/java/org/example" />
@@ -73,6 +135,8 @@
       <recent name="me.chocho.chapter02_3" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="chapter04.chapter04_2" />
+      <recent name="chapter04.chapter04_1" />
       <recent name="org.example" />
       <recent name="chapter03.chapter03_4" />
     </key>
@@ -80,7 +144,7 @@
       <recent name="chapter03.chapter03_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="JUnit.BookServiceTest.proxy_test (1)">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter03.chapter03_4.App" />
       <module name="chocho" />
@@ -94,62 +158,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
-      <module name="di-project" />
+    <configuration name="BookServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chocho" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="chapter04.chapter04_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="chapter04.chapter04_1" />
+      <option name="MAIN_CLASS_NAME" value="chapter04.chapter04_1.BookServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainerServiceTest.bookRepository_getObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="di-project" />
+    <configuration name="BookServiceTest.proxy_test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chocho" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="chapter04.chapter04_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.ContainerServiceTest" />
-      <option name="METHOD_NAME" value="bookRepository_getObject" />
+      <option name="PACKAGE_NAME" value="chapter04.chapter04_2" />
+      <option name="MAIN_CLASS_NAME" value="chapter04.chapter04_2.BookServiceTest" />
+      <option name="METHOD_NAME" value="proxy_test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainerServiceTest.bookService_getObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="di-project" />
+    <configuration name="BookServiceTest.proxy_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chocho" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="chapter04.chapter04_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.ContainerServiceTest" />
-      <option name="METHOD_NAME" value="bookService_getObject" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContainerServiceTest.getObject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="di-project" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example" />
-      <option name="MAIN_CLASS_NAME" value="org.example.ContainerServiceTest" />
-      <option name="METHOD_NAME" value="getObject" />
+      <option name="PACKAGE_NAME" value="chapter04.chapter04_1" />
+      <option name="MAIN_CLASS_NAME" value="chapter04.chapter04_1.BookServiceTest" />
+      <option name="METHOD_NAME" value="proxy_test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -157,11 +207,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BookServiceTest.proxy_test (1)" />
+        <item itemvalue="JUnit.BookServiceTest.proxy_test" />
+        <item itemvalue="JUnit.BookServiceTest" />
         <item itemvalue="Application.App" />
-        <item itemvalue="JUnit.ContainerServiceTest.bookRepository_getObject" />
-        <item itemvalue="JUnit.ContainerServiceTest.bookService_getObject" />
-        <item itemvalue="JUnit.ContainerServiceTest.getObject" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
