@@ -46,6 +46,7 @@ class BookServiceTest {
             }
         };
 
+        // BookService의 자식 클래스인 프록시 인스턴스 생성
         BookServiceImpl bookService = (BookServiceImpl) Enhancer.create(BookServiceImpl.class, handler);
 
         Book book = new Book("달러구트 꿈 백화점");
@@ -62,7 +63,10 @@ class BookServiceTest {
                     chapter04.chapter04_3.BookService bookService = new chapter04.chapter04_3.BookService();
                     @Override
                     public Object invoke(Object proxy, Method method, Object[] args) throws Throwable {
-                        return method.invoke(bookService, args);
+                        System.out.println("Start");
+                        Object invoke = method.invoke(bookService, args);
+                        System.out.println("End");
+                        return invoke;
                     }
 
                 }))
