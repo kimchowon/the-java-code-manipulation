@@ -9,4 +9,9 @@ public class BookServiceImpl implements BookService {
     public void rent(Book book) {
         System.out.println("rent : " + book.getTitle());
     }
+
+    @Override
+    public void returnEBook(Book book) {
+        System.out.println("return : " + book.getTitle());
+    }
 }
