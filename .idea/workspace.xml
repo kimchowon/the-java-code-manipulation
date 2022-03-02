@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88054375-879e-4fec-a5a9-48c19d626192" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_222.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter05/chapter05_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter05/chapter05_1/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chocho/src/test/java/chapter05/chapter05_1/MemberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_22.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/chocho.iml" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/chocho.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/test-classes/chapter04/chapter04_3/BookServiceTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/test-classes/chapter04/chapter04_3/BookServiceTest$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/target/test-classes/chapter04/chapter04_3/BookServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/target/test-classes/chapter04/chapter04_3/BookServiceTest.class" afterDir="false" />
-    </list>
+    <list default="true" id="88054375-879e-4fec-a5a9-48c19d626192" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
