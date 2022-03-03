@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: chapter04.chapter04_1.BookServiceTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in chapter04.chapter04_1.BookServiceTest
-proxy_test  Time elapsed: 0 s  <<< ERROR!
-java.lang.NullPointerException
-	at chapter04.chapter04_1.BookServiceTest.proxy_test(BookServiceTest.java:14)
-

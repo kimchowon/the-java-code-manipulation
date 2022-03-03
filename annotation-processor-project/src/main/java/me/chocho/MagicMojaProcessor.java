@@ -1,6 +1,9 @@
 package me.chocho;
 
 import com.google.auto.service.AutoService;
+import com.squareup.javapoet.ClassName;
+import com.squareup.javapoet.MethodSpec;
+import com.squareup.javapoet.TypeSpec;
 
 import javax.annotation.processing.AbstractProcessor;
 import javax.annotation.processing.Processor;
@@ -8,6 +11,7 @@ import javax.annotation.processing.RoundEnvironment;
 import javax.lang.model.SourceVersion;
 import javax.lang.model.element.Element;
 import javax.lang.model.element.ElementKind;
+import javax.lang.model.element.Modifier;
 import javax.lang.model.element.TypeElement;
 import javax.tools.Diagnostic;
 import java.util.Set;
@@ -59,7 +63,22 @@ public class MagicMojaProcessor extends AbstractProcessor {
             } else {
                 processingEnv.getMessager().printMessage(Diagnostic.Kind.ERROR, "Magic annotation can not be used on " + element.getSimpleName());
             }
+
+            TypeElement typeElement = (TypeElement) element;
+            ClassName className = ClassName.get(typeElement);
+
+            MethodSpec pullOut = MethodSpec.methodBuilder("pullOut")
+                    .addModifiers(Modifier.PUBLIC)
+                    .returns(String.class)
+                    .addStatement("return $s", "Rabbit")
+                    .build();
+
+            TypeSpec MagicMoja = TypeSpec.classBuilder("MagicMoja")
+                    .addModifiers(Modifier.PUBLIC)
+                    .addMethod(pullOut)
+                    .build();
         }
+
 
         return true;
     }
