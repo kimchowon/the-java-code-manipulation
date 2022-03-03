@@ -51,10 +51,9 @@ public class MagicMojaProcessor extends AbstractProcessor {
 
             // 어노테이션이 인터페이스에 붙어 있으면
             if (element.getKind() == ElementKind.INTERFACE) {
-
+                processingEnv.getMessager().printMessage(Diagnostic.Kind.NOTE, "Processing" + element.getSimpleName());
             } else {
-                processingEnv.getMessager().printMessage(Diagnostic.Kind.ERROR,
-                        "Magic annotation can not be used on " + element.getSimpleName());
+                processingEnv.getMessager().printMessage(Diagnostic.Kind.ERROR, "Magic annotation can not be used on " + element.getSimpleName());
             }
         }
 
