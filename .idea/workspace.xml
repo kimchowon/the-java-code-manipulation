@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88054375-879e-4fec-a5a9-48c19d626192" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/annotation-processor-project/src/main/java/me/chocho/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotation-processor-project/src/main/java/me/chocho/Moja.java" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter05/chapter05_2/Moja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotation-processor-project/target/annotation-processor-project-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-processor-project/target/annotation-processor-project-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotation-processor-project/target/classes/META-INF/services/javax.annotation.processing.Processor" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter05/chapter05_2/MyMoja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/annotation-processor-project/target/classes/me/chocho/Magic.class" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-processor-project/target/classes/me/chocho/Magic.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/annotation-processor-project/target/classes/me/chocho/MagicMojaProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-processor-project/target/classes/me/chocho/MagicMojaProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotation-processor-project/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-processor-project/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotation-processor-project/target/surefire-reports/TEST-me.chocho.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-processor-project/target/surefire-reports/TEST-me.chocho.AppTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotation-processor-project/target/surefire-reports/me.chocho.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-processor-project/target/surefire-reports/me.chocho.AppTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chocho/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/annotation-processor-project/target/test-classes/me/chocho/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-processor-project/target/test-classes/me/chocho/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chocho/src/main/java/chapter05/chapter05_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/chocho/src/main/java/chapter05/chapter05_2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +78,20 @@
       <recent name="chapter03.chapter03_2" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MemberTest.getter_setter_test">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter05.chapter05_2.Main" />
+      <module name="chocho" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter05.chapter05_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BookServiceTest.di" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chocho" />
       <extension name="coverage">
@@ -130,22 +140,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookServiceTest.proxy_test (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="chocho" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter04.chapter04_2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chapter04.chapter04_2" />
-      <option name="MAIN_CLASS_NAME" value="chapter04.chapter04_2.BookServiceTest" />
-      <option name="METHOD_NAME" value="proxy_test" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MemberTest.getter_setter_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="chocho" />
       <extension name="coverage">
@@ -164,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="JUnit.MemberTest.getter_setter_test" />
         <item itemvalue="JUnit.BookServiceTest.di_bytebuddy" />
         <item itemvalue="JUnit.BookServiceTest.di_cglib" />
         <item itemvalue="JUnit.BookServiceTest.di" />
-        <item itemvalue="JUnit.BookServiceTest.proxy_test (1)" />
       </list>
     </recent_temporary>
   </component>
