@@ -4,7 +4,9 @@ import javax.annotation.processing.AbstractProcessor;
 import javax.annotation.processing.RoundEnvironment;
 import javax.lang.model.SourceVersion;
 import javax.lang.model.element.Element;
+import javax.lang.model.element.ElementKind;
 import javax.lang.model.element.TypeElement;
+import javax.tools.Diagnostic;
 import java.util.Set;
 
 /**
@@ -14,6 +16,7 @@ public class MagicMojaProcessor extends AbstractProcessor {
 
     /**
      * 어떤 어노테이션을 처리할 것인지 정의
+     *
      * @return
      */
     @Override
@@ -23,6 +26,7 @@ public class MagicMojaProcessor extends AbstractProcessor {
 
     /**
      * 해당 프로세서를 통해 생성되는 소스 코드의 버전
+     *
      * @return
      */
     @Override
@@ -32,6 +36,7 @@ public class MagicMojaProcessor extends AbstractProcessor {
 
     /**
      * 어노테이션을 처리
+     *
      * @param annotations
      * @param roundEnv
      * @return
@@ -41,6 +46,17 @@ public class MagicMojaProcessor extends AbstractProcessor {
 
         // Magic 어노테이션을 가지고 있는 엘리먼트들을 모두 조회
         Set<? extends Element> elements = roundEnv.getElementsAnnotatedWith(Magic.class);
+
+        for (Element element : elements) {
+
+            // 어노테이션이 인터페이스에 붙어 있으면
+            if (element.getKind() == ElementKind.INTERFACE) {
+
+            } else {
+                processingEnv.getMessager().printMessage(Diagnostic.Kind.ERROR,
+                        "Magic annotation can not be used on " + element.getSimpleName());
+            }
+        }
 
         return true;
     }
