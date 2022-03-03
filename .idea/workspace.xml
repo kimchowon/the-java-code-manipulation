@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88054375-879e-4fec-a5a9-48c19d626192" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/annotation-processor-project/src/main/resources/META-INF/services/javax.annotation.processing.Processor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/annotation-processor-project/annotation-processor-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-processor-project/annotation-processor-project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotation-processor-project/src/main/java/me/chocho/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-processor-project/src/main/java/me/chocho/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/annotation-processor-project/src/main/java/me/chocho/MagicMojaProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-processor-project/src/main/java/me/chocho/MagicMojaProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/annotation-processor-project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-processor-project/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
