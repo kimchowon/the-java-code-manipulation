@@ -3,6 +3,7 @@ package me.chocho;
 import javax.annotation.processing.AbstractProcessor;
 import javax.annotation.processing.RoundEnvironment;
 import javax.lang.model.SourceVersion;
+import javax.lang.model.element.Element;
 import javax.lang.model.element.TypeElement;
 import java.util.Set;
 
@@ -37,6 +38,10 @@ public class MagicMojaProcessor extends AbstractProcessor {
      */
     @Override
     public boolean process(Set<? extends TypeElement> annotations, RoundEnvironment roundEnv) {
-        return false;
+
+        // Magic 어노테이션을 가지고 있는 엘리먼트들을 모두 조회
+        Set<? extends Element> elements = roundEnv.getElementsAnnotatedWith(Magic.class);
+
+        return true;
     }
 }

@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88054375-879e-4fec-a5a9-48c19d626192" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/annotation-processor-project/src/main/java/me/chocho/Magic.java" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-processor-project/src/main/java/me/chocho/Magic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/annotation-processor-project/src/main/java/me/chocho/MagicMojaProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/annotation-processor-project/src/main/java/me/chocho/MagicMojaProcessor.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
